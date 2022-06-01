@@ -9,10 +9,10 @@ $ git clone https://github.com/Code0x13/SubCert.git
 $ cd SubCert
 $ python3 subcert.py -h
 
-With a single host: -
+With a single host, use the -t option to specify the host: -
 $ python3 subcert.py -t example.domain.com
 
-With multiple hosts, create a text file with hosts on each new line, for example: -
+With multiple hosts, create a text file with hosts on each new line, and specify the file with -f, for example: -
 $ cat targets.txt
 example-1.domain.com
 example-2.domain.com
