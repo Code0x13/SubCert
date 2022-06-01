@@ -9,15 +9,16 @@ $ git clone https://github.com/Code0x13/SubCert.git
 $ cd SubCert
 $ python3 subcert.py -h
 
-run the tool against a single target
+With a single host: -
 $ python3 subcert.py -t example.domain.com
 
-run the tool against a text file containing targets on each line
-$ python3 subcert.py -f targets.txt
-
+With multiple hosts, create a text file with hosts on each new line, for example: -
 $ cat targets.txt
 example-1.domain.com
 example-2.domain.com
 example-3.domain.com
+
+Then run the tool, specifying the file: -
+$ python3 subcert.py -f targets.txt
 ```
 
