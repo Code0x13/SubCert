@@ -1,12 +1,7 @@
 # SubCert
-Subdomain enumeration by obtaining SSL certificates and checking the CN and SAN fields.
+Subdomain enumeration by obtaining SSL certificates and checking the CN and SAN fields. This is a work in progress, so may have bugs! 
 
-# Warning
-This is a work in progress, so may have bugs! 
-
-# Disclaimer
-
-This tool is for authorised use only where permission is in place.
+This tool is for authorised use only where you have been granted permission to test!
 
 # Usage
 ```
