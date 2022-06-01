@@ -1,5 +1,5 @@
 # SubCert
-Subdomain enumeration by obtaining SSL certificates and checking the CN and SAN fields. This is a work in progress, so may have bugs! 
+Subdomain enumeration by obtaining SSL certificates and checking the CN and SAN fields. It will try and resolve each result to get its IP address too. This is a work in progress, so may have bugs! 
 
 This tool is for authorised use only where you have been granted permission to test!
 
