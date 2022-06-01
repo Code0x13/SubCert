@@ -5,9 +5,8 @@ This tool is for authorised use only where you have been granted permission to t
 
 # Usage
 ```
-$ git clone https://github.com/Code0x13/SubCert/
-
-get some help
+$ git clone https://github.com/Code0x13/SubCert.git
+$ cd SubCert
 $ python3 subcert.py -h
 
 run the tool against a single target
